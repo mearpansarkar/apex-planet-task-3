@@ -1,0 +1,5 @@
+Segment,orders,revenue,aov,avg_age,avg_qty,avg_price,pct_orders,pct_revenue
+Big Spenders,242,73167796.39,302346.27,42.08,7.94,37931.62,24.2,52.49
+Bulk Value Buyers,239,26115954.94,109271.78,39.74,8.01,13625.06,23.9,18.73
+Light Buyers,261,10658227.61,40836.12,43.03,3.08,13071.73,26.1,7.65
+Premium Single-Item,258,29457460.71,114176.2,40.46,3.08,37361.32,25.8,21.13
